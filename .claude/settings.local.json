@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sed -n '1240,1300p' /tmp/fumbler-design/fumbling-a-baddie/project/styles.css)",
+      "Read(//private/tmp/fumbler-design/fumbling-a-baddie/project/**)"
+    ]
+  }
+}
